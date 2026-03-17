@@ -121,4 +121,4 @@ Enhanced reporting efficiency through interactive dashboards.
 
 9. Screenshots
     1. https://github.com/Sneha-Fasage/Super-Store-Sales-Forecast-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20dashboard%20-%201.png
-   2. 
+   2. https://github.com/Sneha-Fasage/Super-Store-Sales-Forecast-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20dashboard%20-%202.png
